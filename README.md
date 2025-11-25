@@ -1,1 +1,1 @@
-# Machine-Learning-A-Z-AI-Python-R-ChatGPT-Prize-2025-
+## File này ghi lại những gì tôi học được trên [udemy](https://www.udemy.com/course/machinelearning/)
