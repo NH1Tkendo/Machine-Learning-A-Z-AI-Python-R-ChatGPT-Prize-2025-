@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Section 2 (Data Preprocessing)/2-3  Feature Scaling in Machine Learning (Normalization vs Standardization).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2-3  Feature Scaling in Machine Learning (Normalization vs Standardization)"
             }
           }
         ]
@@ -183,9 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "172bbf9f6b635d7d",
+  "active": "661ceeca58bdc071",
   "lastOpenFiles": [
+    "md_assets/ChuanHoa-TieuChuanHoa.png",
+    "Section 2 (Data Preprocessing)/2-2  Data Preprocessing Importance of Training-Test Split in ML Model Evaluation.md",
+    "Section 2 (Data Preprocessing)/2-3  Feature Scaling in Machine Learning (Normalization vs Standardization).md",
+    "md_assets/TrainingSet-TestSet.png",
+    "md_assets/QuyTrinh_MayHoc.png",
+    "Section 2 (Data Preprocessing)/2-1 Machine Learning Workflow (Importing, Modeling, and Evaluating) Your ML Model.md",
+    "md_assets",
     "Section 1/1-2 How to Use Google Colab & Machine Learning Course Folder.md",
+    "Section 2 (Data Preprocessing)",
+    "README.md",
     "Section 1/1-1 Get Excited about ML Predict Car Purchases with Python & Scikit-learn in 5 mins.md",
     "Section 1"
   ]
