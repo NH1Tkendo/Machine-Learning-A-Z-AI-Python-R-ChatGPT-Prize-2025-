@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ee61390a358b9112",
+        "id": "bb72380b425dabaf",
         "type": "tabs",
         "children": [
           {
-            "id": "172bbf9f6b635d7d",
+            "id": "d0214f97bb42beb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Section 6 (Multiple Linear Regression)/6-2 Multiple Linear Regression (Independent Variables & Prediction Models).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6-2 Multiple Linear Regression (Independent Variables & Prediction Models)"
+              "title": "New tab"
             }
           }
         ]
@@ -183,8 +179,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "172bbf9f6b635d7d",
+  "active": "661ceeca58bdc071",
   "lastOpenFiles": [
+    "ThucHanh/BaiLab/polynomial_regression.ipynb",
+    "Section 7 (Polynomial Regression)/7-9 Python Polynomial Regression - Predicting Salaries Accurately.md",
+    "Section 7 (Polynomial Regression)/7-8 Predicting Salaries - Linear Regression in Python (Array Input Guide).md",
+    "Section 7 (Polynomial Regression)/7-7 Polynomial vs Linear Regression (Better Fit with Higher Degrees).md",
+    "Section 7 (Polynomial Regression)/7-6 Plotting Real vs Predicted Salaries (Linear Regression Visualization).md",
+    "Section 7 (Polynomial Regression)/7-5 Transforming Linear to Polynomial Regression (A Step-by-Step Guide).md",
+    "Section 7 (Polynomial Regression)/7-1 Understanding Polynomial Linear Regression( Applications and Examples).md",
+    "Section 7 (Polynomial Regression)/7-4 Linear to Polynomial Regression - Preparing Data for Advanced Models.md",
+    "Section 7 (Polynomial Regression)/7-3 Setting Up Data for Linear vs Polynomial Regression Comparison.md",
+    "Section 7 (Polynomial Regression)/7-2 Building a Polynomial Regression Model for Salary Prediction in Python.md",
+    "md_assets/HoiQuyDaThuc-PLR.png",
+    "Section 6 (Multiple Linear Regression)/6-2 Multiple Linear Regression (Independent Variables & Prediction Models).md",
+    "Section 7 (Polynomial Regression)",
     "Section 6 (Multiple Linear Regression)/6-1 Startup Success Prediction (Regression Model for VC Fund Decision-Making).md",
     "Section 6 (Multiple Linear Regression)/6-17 Multiple Linear Regression in Python - EXTRA CONTENT.md",
     "Section 6 (Multiple Linear Regression)/6-16 Multiple Linear Regression in Python - Backward Elimination.md",
@@ -205,30 +214,18 @@
     "md_assets/LoaiBoLui-BackwardElimination.png",
     "Section 6 (Multiple Linear Regression)/6-6 Understanding P-Values and Statistical Significance in Hypothesis Testing.md",
     "Section 6 (Multiple Linear Regression)/6-5 Multicollinearity in Regression (Understanding the Dummy Variable Trap).md",
-    "Section 6 (Multiple Linear Regression)/6-2 Multiple Linear Regression (Independent Variables & Prediction Models).md",
     "Section 6 (Multiple Linear Regression)/6-4 How to Handle Categorical Variables in Linear Regression Models.md",
-    "Section 6 (Multiple Linear Regression)/6-3 Understanding Linear Regression Assumptions (Linearity, Homoscedasticity & More).md",
     "md_assets/KiemTraGiaTriNgoaiLai-OutlierCheck.png",
     "md_assets/DaCongTuyen-LackOfMulticollinearity.png",
     "md_assets/SuDocLapCuaQuanSat-Independence.png",
     "md_assets/PhanPhoiChuanDaBien-MultivariateNormality.png",
     "md_assets/DongNhatPhuongSai-Homoscedasticity.png",
-    "md_assets/TinhTuyenTinh_Linearity.png",
-    "README.md",
-    "Section 5 (Simple Linear Regression)/5-10 Simple Linear Regression in Python - Additional Lecture.md",
     "Section 6 (Multiple Linear Regression)",
-    "Section 5 (Simple Linear Regression)/5-9 Evaluating Linear Regression Model Performance on Test Data.md",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/Wine.csv",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/kernel_pca.ipynb",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA",
-    "Section 5 (Simple Linear Regression)/5-8 Linear Regression (Plotting Real vs Predicted Salaries Visualization).md",
-    "Section 5 (Simple Linear Regression)/5-7 Using Scikit-Learn's Predict Method for Linear Regression in Python.md",
-    "Section 5 (Simple Linear Regression)/5-6 Machine Learning Basics (Training a Linear Regression Model in Python).md",
-    "Section 5 (Simple Linear Regression)/5-5 Building a Simple Linear Regression Model with Scikit-learn in Python.md",
-    "Section 5 (Simple Linear Regression)/5-4 Data Preprocessing for Linear Regression (Import & Split Data in Python).md"
+    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python"
   ]
 }
