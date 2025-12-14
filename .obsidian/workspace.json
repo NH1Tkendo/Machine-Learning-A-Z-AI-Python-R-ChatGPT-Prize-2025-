@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bb72380b425dabaf",
+        "id": "5b1a207fef5b83ec",
         "type": "tabs",
         "children": [
           {
-            "id": "d0214f97bb42beb2",
+            "id": "3e0e05d1f794c798",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Section 8 (Support Vector Regression - SVR)/8-11 SVR( Scaling & Inverse Transformation in Python).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "8-11 SVR( Scaling & Inverse Transformation in Python)"
             }
           }
         ]
@@ -179,15 +183,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "661ceeca58bdc071",
+  "active": "3e0e05d1f794c798",
   "lastOpenFiles": [
+    "Section 8 (Support Vector Regression - SVR)/8-10 How to Plot Support Vector Regression (SVR) Models( Step-by-Step Guide).md",
+    "Section 8 (Support Vector Regression - SVR)/8-11 SVR( Scaling & Inverse Transformation in Python).md",
+    "Section 8 (Support Vector Regression - SVR)/8-9 SVR Model Prediction (Handling Scaled Data and Inverse Transformation).md",
+    "Section 8 (Support Vector Regression - SVR)/8-8 SVM Regression (Creating & Training SVR Model with RBF Kernel in Python).md",
+    "md_assets/VSM-Kernel.png",
+    "Section 8 (Support Vector Regression - SVR)/8-7 SVR Data Prep - Scaling X & Y Independently with StandardScaler.md",
+    "Section 8 (Support Vector Regression - SVR)/8-6 Reshaping Data for SVR - Preparing Y Vector for Feature Scaling.md",
+    "Section 8 (Support Vector Regression - SVR)/8-5 Mastering Feature Scaling for Support Vector Regression in Python.md",
+    "Section 8 (Support Vector Regression - SVR)/8-4 SVR in Python (Importing Libraries and Dataset for Machine Learning).md",
+    "Section 8 (Support Vector Regression - SVR)/8-3 SVR Model Training (Feature Scaling and Dataset Preparation in Python).md",
+    "Section 8 (Support Vector Regression - SVR)/8-2 RBF Kernel SVR (From Linear to Non-Linear Support Vector Regression).md",
+    "Section 8 (Support Vector Regression - SVR)/8-1 How Does Support Vector Regression (SVR) Differ from Linear Regression.md",
+    "md_assets/support_vector_regression.png",
+    "Section 8 (Support Vector Regression - SVR)",
+    "Section 7 (Polynomial Regression)/7-1 Understanding Polynomial Linear Regression( Applications and Examples).md",
     "ThucHanh/BaiLab/polynomial_regression.ipynb",
     "Section 7 (Polynomial Regression)/7-9 Python Polynomial Regression - Predicting Salaries Accurately.md",
     "Section 7 (Polynomial Regression)/7-8 Predicting Salaries - Linear Regression in Python (Array Input Guide).md",
     "Section 7 (Polynomial Regression)/7-7 Polynomial vs Linear Regression (Better Fit with Higher Degrees).md",
     "Section 7 (Polynomial Regression)/7-6 Plotting Real vs Predicted Salaries (Linear Regression Visualization).md",
     "Section 7 (Polynomial Regression)/7-5 Transforming Linear to Polynomial Regression (A Step-by-Step Guide).md",
-    "Section 7 (Polynomial Regression)/7-1 Understanding Polynomial Linear Regression( Applications and Examples).md",
     "Section 7 (Polynomial Regression)/7-4 Linear to Polynomial Regression - Preparing Data for Advanced Models.md",
     "Section 7 (Polynomial Regression)/7-3 Setting Up Data for Linear vs Polynomial Regression Comparison.md",
     "Section 7 (Polynomial Regression)/7-2 Building a Polynomial Regression Model for Salary Prediction in Python.md",
@@ -200,32 +218,17 @@
     "ThucHanh/BaiLab/multiple_linear_regression.ipynb",
     "Section 6 (Multiple Linear Regression)/S07 - SuperDataScience-Poster-Assumptions-of-Linear-Regression.pdf",
     "Section 6 (Multiple Linear Regression)/6-7 Backward Elimination (Building Robust Multiple Linear Regression Models).md",
-    "Section 6 (Multiple Linear Regression)/6-8 Hands-On Data Preprocessing for Multiple Linear Regression in Python.md",
-    "Section 6 (Multiple Linear Regression)/6-9 Hands-On Guide (Implementing Multiple Linear Regression in Python).md",
-    "Section 6 (Multiple Linear Regression)/6-10 Hands-on Multiple Linear Regression (Preparing Data in Python).md",
-    "Section 6 (Multiple Linear Regression)/6-11 Multiple Linear Regression in Python (Preparing Your Dataset).md",
-    "Section 6 (Multiple Linear Regression)/6-13 Scikit-Learn (Building & Training Multiple Linear Regression Models).md",
-    "Section 6 (Multiple Linear Regression)/6-12 Scikit-learn for Multiple Linear Regression (Efficient Model Building).md",
-    "Section 6 (Multiple Linear Regression)/6-15 ML in Python (Evaluating Multiple Linear Regression Accuracy).md",
-    "Section 6 (Multiple Linear Regression)/6-14 Comparing Real vs Predicted Profits in Linear Regression - Hands-on Gui.md",
     "md_assets/SoSanhDemSo-AllPossibeModels.png",
     "md_assets/LoaiBoHaiChieu-BidirectionalElimination.png",
     "md_assets/LuaChonTien-ForwardSelection.png",
     "md_assets/LoaiBoLui-BackwardElimination.png",
-    "Section 6 (Multiple Linear Regression)/6-6 Understanding P-Values and Statistical Significance in Hypothesis Testing.md",
-    "Section 6 (Multiple Linear Regression)/6-5 Multicollinearity in Regression (Understanding the Dummy Variable Trap).md",
-    "Section 6 (Multiple Linear Regression)/6-4 How to Handle Categorical Variables in Linear Regression Models.md",
     "md_assets/KiemTraGiaTriNgoaiLai-OutlierCheck.png",
     "md_assets/DaCongTuyen-LackOfMulticollinearity.png",
     "md_assets/SuDocLapCuaQuanSat-Independence.png",
-    "md_assets/PhanPhoiChuanDaBien-MultivariateNormality.png",
-    "md_assets/DongNhatPhuongSai-Homoscedasticity.png",
     "Section 6 (Multiple Linear Regression)",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/Wine.csv",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/kernel_pca.ipynb",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python"
+    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/kernel_pca.ipynb"
   ]
 }
