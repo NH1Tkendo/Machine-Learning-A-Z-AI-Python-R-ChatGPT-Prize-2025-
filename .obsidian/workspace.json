@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 10 (Random Forest Regression)/10-3 Creating a Random Forest Regressor (Key Parameters and Model Fitting).md",
+                "file": "Section 11 (Evaluating Regression Models Performance)/11-2 Understanding Adjusted R-Squared (Key Differences from R-Squared Explained).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-3 Creating a Random Forest Regressor (Key Parameters and Model Fitting)"
+              "title": "11-2 Understanding Adjusted R-Squared (Key Differences from R-Squared Explained)"
             }
           }
         ]
@@ -185,12 +185,24 @@
   },
   "active": "3e0e05d1f794c798",
   "lastOpenFiles": [
+    "Section 11 (Evaluating Regression Models Performance)/11-1 Understanding R-squared (Evaluating Goodness of Fit in Regression Models).md",
+    "md_assets/TotalSumOfSquares.png",
+    "md_assets/SumOfSquare.png",
+    "Section 11 (Evaluating Regression Models Performance)/11-2 Understanding Adjusted R-Squared (Key Differences from R-Squared Explained).md",
+    "Section 10 (Random Forest Regression)/10-3 Creating a Random Forest Regressor (Key Parameters and Model Fitting).md",
+    "Section 11 (Evaluating Regression Models Performance)",
+    "ThucHanh/BaiLab/Các mô hình hồi quy/support_vector_regression.ipynb",
+    "ThucHanh/BaiLab/Các mô hình hồi quy/simple_linear_regression.ipynb",
+    "ThucHanh/BaiLab/Các mô hình hồi quy/random_forest_regression.ipynb",
+    "ThucHanh/BaiLab/Các mô hình hồi quy/polynomial_regression.ipynb",
+    "ThucHanh/BaiLab/Các mô hình hồi quy/multiple_linear_regression.ipynb",
+    "ThucHanh/BaiLab/Các mô hình hồi quy/decision_tree_regression.ipynb",
+    "ThucHanh/BaiLab/Các mô hình hồi quy",
+    "ThucHanh/BaiLab/New folder",
+    "ThucHanh/BaiLab/random_forest_regression.ipynb",
     "Section 10 (Random Forest Regression)/10-2 Building a Random Forest Regression Model with Python and Scikit-Learn.md",
     "Section 10 (Random Forest Regression)/10-1 Understanding Random Forest Algorithm (Intuition and Application in ML).md",
-    "Section 10 (Random Forest Regression)/10-3 Creating a Random Forest Regressor (Key Parameters and Model Fitting).md",
     "Section 9 (Decision Tree Regression)/9-6 Visualizing Decision Tree Regression (High-Resolution Results).md",
-    "Section 10 (Random Forest Regression)",
-    "ThucHanh/BaiLab/decision_tree_regression.ipynb",
     "Section 9 (Decision Tree Regression)/9-5 Implementing Decision Tree Regression in Python ( Making Predictions).md",
     "Section 9 (Decision Tree Regression)/9-4 Implementing DecisionTreeRegressor (A Step-by-Step Guide in Python).md",
     "Section 9 (Decision Tree Regression)/9-3 Uploading & Preprocessing Data for Decision Tree Regression in Python.md",
@@ -198,7 +210,6 @@
     "Section 9 (Decision Tree Regression)/9-1 How to Build a Regression Tree (Step-by-Step Guide for Machine Learning).md",
     "md_assets/DecisionTree-Condition.png",
     "Section 8 (Support Vector Regression - SVR)/8-11 SVR( Scaling & Inverse Transformation in Python).md",
-    "Section 9 (Decision Tree Regression)",
     "Section 8 (Support Vector Regression - SVR)/8-10 How to Plot Support Vector Regression (SVR) Models( Step-by-Step Guide).md",
     "Section 8 (Support Vector Regression - SVR)/8-9 SVR Model Prediction (Handling Scaled Data and Inverse Transformation).md",
     "Section 8 (Support Vector Regression - SVR)/8-8 SVM Regression (Creating & Training SVR Model with RBF Kernel in Python).md",
@@ -211,25 +222,13 @@
     "Section 8 (Support Vector Regression - SVR)/8-2 RBF Kernel SVR (From Linear to Non-Linear Support Vector Regression).md",
     "Section 8 (Support Vector Regression - SVR)/8-1 How Does Support Vector Regression (SVR) Differ from Linear Regression.md",
     "md_assets/support_vector_regression.png",
-    "Section 8 (Support Vector Regression - SVR)",
     "Section 7 (Polynomial Regression)/7-1 Understanding Polynomial Linear Regression( Applications and Examples).md",
-    "ThucHanh/BaiLab/polynomial_regression.ipynb",
     "Section 7 (Polynomial Regression)/7-9 Python Polynomial Regression - Predicting Salaries Accurately.md",
     "Section 7 (Polynomial Regression)/7-8 Predicting Salaries - Linear Regression in Python (Array Input Guide).md",
-    "Section 7 (Polynomial Regression)/7-7 Polynomial vs Linear Regression (Better Fit with Higher Degrees).md",
-    "Section 7 (Polynomial Regression)/7-6 Plotting Real vs Predicted Salaries (Linear Regression Visualization).md",
-    "Section 7 (Polynomial Regression)/7-5 Transforming Linear to Polynomial Regression (A Step-by-Step Guide).md",
     "md_assets/HoiQuyDaThuc-PLR.png",
-    "Section 7 (Polynomial Regression)",
-    "ThucHanh/BaiLab/multiple_linear_regression.ipynb",
-    "Section 6 (Multiple Linear Regression)/S07 - SuperDataScience-Poster-Assumptions-of-Linear-Regression.pdf",
     "md_assets/SoSanhDemSo-AllPossibeModels.png",
     "md_assets/LoaiBoHaiChieu-BidirectionalElimination.png",
     "md_assets/LuaChonTien-ForwardSelection.png",
-    "md_assets/LoaiBoLui-BackwardElimination.png",
-    "md_assets/KiemTraGiaTriNgoaiLai-OutlierCheck.png",
-    "md_assets/DaCongTuyen-LackOfMulticollinearity.png",
-    "Section 6 (Multiple Linear Regression)",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv"
+    "md_assets/LoaiBoLui-BackwardElimination.png"
   ]
 }
