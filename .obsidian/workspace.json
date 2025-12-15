@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 8 (Support Vector Regression - SVR)/8-11 SVR( Scaling & Inverse Transformation in Python).md",
+                "file": "Section 9 (Decision Tree Regression)/9-6 Visualizing Decision Tree Regression (High-Resolution Results).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-11 SVR( Scaling & Inverse Transformation in Python)"
+              "title": "9-6 Visualizing Decision Tree Regression (High-Resolution Results)"
             }
           }
         ]
@@ -183,10 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e0e05d1f794c798",
+  "active": "661ceeca58bdc071",
   "lastOpenFiles": [
-    "Section 8 (Support Vector Regression - SVR)/8-10 How to Plot Support Vector Regression (SVR) Models( Step-by-Step Guide).md",
+    "ThucHanh/BaiLab/decision_tree_regression.ipynb",
+    "Section 9 (Decision Tree Regression)/9-5 Implementing Decision Tree Regression in Python ( Making Predictions).md",
+    "Section 9 (Decision Tree Regression)/9-4 Implementing DecisionTreeRegressor (A Step-by-Step Guide in Python).md",
+    "Section 9 (Decision Tree Regression)/9-3 Uploading & Preprocessing Data for Decision Tree Regression in Python.md",
+    "Section 9 (Decision Tree Regression)/9-2 Decision Tree Regression (Building a Model without Feature Scaling).md",
+    "Section 9 (Decision Tree Regression)/9-1 How to Build a Regression Tree (Step-by-Step Guide for Machine Learning).md",
+    "md_assets/DecisionTree-Condition.png",
+    "Section 9 (Decision Tree Regression)/9-6 Visualizing Decision Tree Regression (High-Resolution Results).md",
     "Section 8 (Support Vector Regression - SVR)/8-11 SVR( Scaling & Inverse Transformation in Python).md",
+    "Section 9 (Decision Tree Regression)",
+    "Section 8 (Support Vector Regression - SVR)/8-10 How to Plot Support Vector Regression (SVR) Models( Step-by-Step Guide).md",
     "Section 8 (Support Vector Regression - SVR)/8-9 SVR Model Prediction (Handling Scaled Data and Inverse Transformation).md",
     "Section 8 (Support Vector Regression - SVR)/8-8 SVM Regression (Creating & Training SVR Model with RBF Kernel in Python).md",
     "md_assets/VSM-Kernel.png",
@@ -208,27 +217,19 @@
     "Section 7 (Polynomial Regression)/7-5 Transforming Linear to Polynomial Regression (A Step-by-Step Guide).md",
     "Section 7 (Polynomial Regression)/7-4 Linear to Polynomial Regression - Preparing Data for Advanced Models.md",
     "Section 7 (Polynomial Regression)/7-3 Setting Up Data for Linear vs Polynomial Regression Comparison.md",
-    "Section 7 (Polynomial Regression)/7-2 Building a Polynomial Regression Model for Salary Prediction in Python.md",
     "md_assets/HoiQuyDaThuc-PLR.png",
-    "Section 6 (Multiple Linear Regression)/6-2 Multiple Linear Regression (Independent Variables & Prediction Models).md",
     "Section 7 (Polynomial Regression)",
-    "Section 6 (Multiple Linear Regression)/6-1 Startup Success Prediction (Regression Model for VC Fund Decision-Making).md",
-    "Section 6 (Multiple Linear Regression)/6-17 Multiple Linear Regression in Python - EXTRA CONTENT.md",
-    "Section 6 (Multiple Linear Regression)/6-16 Multiple Linear Regression in Python - Backward Elimination.md",
     "ThucHanh/BaiLab/multiple_linear_regression.ipynb",
     "Section 6 (Multiple Linear Regression)/S07 - SuperDataScience-Poster-Assumptions-of-Linear-Regression.pdf",
-    "Section 6 (Multiple Linear Regression)/6-7 Backward Elimination (Building Robust Multiple Linear Regression Models).md",
     "md_assets/SoSanhDemSo-AllPossibeModels.png",
     "md_assets/LoaiBoHaiChieu-BidirectionalElimination.png",
     "md_assets/LuaChonTien-ForwardSelection.png",
     "md_assets/LoaiBoLui-BackwardElimination.png",
     "md_assets/KiemTraGiaTriNgoaiLai-OutlierCheck.png",
     "md_assets/DaCongTuyen-LackOfMulticollinearity.png",
-    "md_assets/SuDocLapCuaQuanSat-Independence.png",
     "Section 6 (Multiple Linear Regression)",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/Social_Network_Ads.csv",
     "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/R/kernel_pca.R",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/Wine.csv",
-    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/kernel_pca.ipynb"
+    "Machine Learning A-Z (Codes and Datasets)/Part 9 - Dimensionality Reduction/Section 45 - Kernel PCA/Python/Wine.csv"
   ]
 }
